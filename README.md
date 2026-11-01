@@ -2,7 +2,7 @@
 
 Recomended python version: 3.14.8
 
-A small fully self made Python CLI project implementing three classical ciphers:
+A small fully self made (except from freq_data which is taken from TextBlob's English word-frequency dataset.) Python project implementing three classical ciphers :
 
 - **Caesar cipher** — encryption, decryption and frequency-based key guessing.
 - **Rail Fence cipher** — encryption, decryption and trigram-based brute force.
