@@ -11,7 +11,7 @@ A small fully self made (except from freq_data which is taken from TextBlob's En
 ## Usage
 
 1. Place your message in `input.txt`. For Vernam decryption, put the key on the second line.
-2. Run the main Python file, e.g. `python encryption.py`.
+2. Run the main Python file `python encryption.py`.
 3. Follow the prompts. The result is written to `output.txt`.
 
 Keep `Freq_data.py` next to the main script to enable frequency-based key guessing.
